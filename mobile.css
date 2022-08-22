@@ -1,0 +1,15 @@
+@media only screen and (max-width: 480px) {
+
+    .hero nav ul{
+        display: none;
+    }
+    .mobile-menu{
+        display: flex;
+    }
+    form{
+        width: auto;
+    }
+    .about .main{
+        flex-direction: column;
+    }
+}
